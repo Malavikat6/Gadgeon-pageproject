@@ -1,0 +1,25 @@
+/* .logo img{
+    float: left;
+    }
+    .logo li{
+        float: left;
+        margin-left: 200px;
+        margin-top: 30px;
+    }
+    
+    .logo a{
+        text-decoration: none;
+    }
+    .logo ul{
+        list-style-type: none;
+    }   */
+    .pic img{
+        margin-top: 40px;
+        padding: 20px;
+        margin-left: 150px;
+        
+    }
+    .inf{
+        text-align: center;
+    }
+        
